@@ -78,7 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Humidity readings][product-screenshot]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/blob/main/Images/Past_humidity_reading.png) |    [![Three-day humidity comparison][product-screenshot]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/blob/main/Images/Three_day__humidity_data.png)
+[![Traning_samples][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Samples_from_Original_dataset.png) |    [![Training and validation accuracy][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Training_and_Validation_accuracy.png)
 
 Initially DHT11 sensor is connected to Raspberry pi zero to mine the temperature and humidity data inside a closed room environment then data is then continuosly fed to thingspeak cloud using APIs. 
 
