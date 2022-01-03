@@ -73,16 +73,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Training_samples][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Samples_from_Original_dataset.png) |    [![Training and validation accuracy][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Training_and_Validation_accuracy.png)
+[![Training_samples][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Samples_from_original_dataset.png) |    [![Training and validation accuracy][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Training_and_validation_accuracy.png) |  [![Sample data augmentation][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Image_augmentation.png)
+
 
 Project Overview:
-* Dataset creation(train, validation, test splits).
+* Dataset creation(train, validation, test splits) including data augmentation.
 * Training few layers layers and perform validation to know whether to further train few more layers.
 * Validation and testing.
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -93,7 +92,6 @@ These are programming languages, libraries, frameworks and other tools used in t
 * [Tensorflow](https://www.tensorflow.org/tutorials/images/transfer_learning)
 * [Numpy](https://numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -106,11 +104,10 @@ These are programming languages, libraries, frameworks and other tools used in t
 * You can add more images to their respective images directories if needed.
 
 
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Data splitting
+- [x] Data split and data augmentation
 - [x] Training and validation
 - [x] Test
 
@@ -122,7 +119,7 @@ See the [open issues](https://github.com/ariharasudhanm/Image-classification-usi
 ## Results
 
 Testing the trained model for first six images from test set.
-[Testing first six images](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Testing_few_images.png)
+[Testing first six images](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Test_samples.png)
 
 ![Testing_few_images](https://user-images.githubusercontent.com/49080561/147982594-b16cfff7-fd0c-4b13-a242-7542360e4c28.png)
 
