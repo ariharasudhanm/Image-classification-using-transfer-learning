@@ -117,7 +117,7 @@ These are the programming languages, libraries, frameworks, cloud services and o
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Creating respective datasets
+- [x] Data splitting
 - [x] Training and validation
 - [x] Test
 
