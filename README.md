@@ -78,14 +78,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Traning_samples][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Samples_from_Original_dataset.png) |    [![Training and validation accuracy][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Training_and_Validation_accuracy.png)
-
-Initially DHT11 sensor is connected to Raspberry pi zero to mine the temperature and humidity data inside a closed room environment then data is then continuosly fed to thingspeak cloud using APIs. 
+[![Training_samples][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Samples_from_Original_dataset.png) |    [![Training and validation accuracy][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Training_and_Validation_accuracy.png)
 
 Project Overview:
-* Data is fed from raspberry pi to cloud.
-* Creating a machine learning model with the time series data to predict the future temperature and humidity of an environment.
-* Model deployment in cloud.
+* There are three directories inside the GuitarDatatsetChallenge called test, val(for validation) and train  where each directories contains 2 directories called    acoustic and electric which contains respective categories of images.
+* We need their absolute path of these directories to feed it when creating a train, test, validation datasets.
+* In order to avoid confusions running it on different OS platforms we considering the absloute path of the images while creating datasets.
+* You can add more images to their respective images directories if needed.
 
 For machine learning model initially, we will use neural networks to buid the model since its already one of the highly efficient for time series data.
 
