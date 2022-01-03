@@ -56,12 +56,6 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -104,10 +98,9 @@ These are programming languages, libraries, frameworks and other tools used in t
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- GETTING STARTED -->
 ## Usage
-* There are three directories inside the dataset directory called test, val(for validation) and train  where each directories contains 2 directories called    acoustic and electric which contains respective categories of images (this is done manually to avoid api contradictions in tensorflow but it is better to split it randomly in order to avoid bias in train,validation,test setsplitting process).
+* There are three directories inside the dataset directory called test, val(for validation) and train  where each directories contains 2 directories called    acoustic and electric which contains respective categories of images (this is done manually to avoid API contradictions in tensorflow but it is better to split it randomly in order to avoid bias in train,validation,test setsplitting process).
 * In the notebook we use absolute path of these directories to feed it when creating a train, test, validation datasets(be aware of this while running).
 * In order to avoid confusions running it on different OS platforms we are considering the absloute path of the images while creating datasets.
 * You can add more images to their respective images directories if needed.
@@ -128,7 +121,10 @@ See the [open issues](https://github.com/ariharasudhanm/Image-classification-usi
 <!-- Results -->
 ## Results
 
+Testing the trained model for first six images from test set.
+[Testing first six images](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Testing_few_images.png)
 
+![Testing_few_images](https://user-images.githubusercontent.com/49080561/147982594-b16cfff7-fd0c-4b13-a242-7542360e4c28.png)
 
 <!-- CONTRIBUTING -->
 ## Contributing
