@@ -81,12 +81,10 @@
 [![Training_samples][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Samples_from_Original_dataset.png) |    [![Training and validation accuracy][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Training_and_Validation_accuracy.png)
 
 Project Overview:
-* There are three directories inside the GuitarDatatsetChallenge called test, val(for validation) and train  where each directories contains 2 directories called    acoustic and electric which contains respective categories of images.
+* There are three directories inside the dataset directory called test, val(for validation) and train  where each directories contains 2 directories called    acoustic and electric which contains respective categories of images.
 * We need their absolute path of these directories to feed it when creating a train, test, validation datasets.
 * In order to avoid confusions running it on different OS platforms we considering the absloute path of the images while creating datasets.
 * You can add more images to their respective images directories if needed.
-
-For machine learning model initially, we will use neural networks to buid the model since its already one of the highly efficient for time series data.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -98,12 +96,9 @@ For machine learning model initially, we will use neural networks to buid the mo
 These are the programming languages, libraries, frameworks, cloud services and other tools used in this project.
 
 * [Python](https://www.python.org/)
-* [Matlab](https://www.mathworks.com/)
-* [Pytorch](https://pytorch.org/)
+* [Tensorflow](https://www.tensorflow.org/tutorials/images/transfer_learning)
 * [Numpy](https://numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
-* [Thinspeak](https://thingspeak.com/)
-* [Microsoft Azure cloud](https://azure.microsoft.com/en-us/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -111,30 +106,22 @@ These are the programming languages, libraries, frameworks, cloud services and o
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-
-
-### Data Processing
-
-
-<!-- USAGE EXAMPLES -->
-## Model creation and deployment
+## Usage
+* There are three directories inside the dataset directory called test, val(for validation) and train  where each directories contains 2 directories called    acoustic and electric which contains respective categories of images.
+* We need their absolute path of these directories to feed it when creating a train, test, validation datasets.
+* In order to avoid confusions running it on different OS platforms we considering the absloute path of the images while creating datasets.
+* You can add more images to their respective images directories if needed.
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Sensor setup using raspberry pi
-- [x] Data feeding to cloud
-- [x] Data visualization and pre-processing
-- [] MOdel Creation (Ongoing)
-- [] Evaluation and cloud deployment
-    - [] Data improvement
-    - [] Model deployment in different platforms
+- [x] Creating respective datasets
+- [x] Training and validation
+- [x] Test
 
-See the [open issues](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -183,12 +170,12 @@ Project Link: [IoT-based-environmental-monitoring](https://github.com/ariharasud
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [The future of environment monitoring](https://blog.smartsense.co/the-future-of-environmental-monitoring-deep-learning-and-artificial-intelligence)
-* [An IoT based Environment Monitoring System](https://ieeexplore.ieee.org/document/9316050)
-* [Deep Learning for Time Series Classification](https://github.com/hfawaz/dl-4-tsc)
-* [REVIEW ON - IOT BASED ENVIRONMENT MONITORING SYSTEM](https://iaeme.com/MasterAdmin/Journal_uploads/IJECET/VOLUME_8_ISSUE_2/IJECET_08_02_014.pdf)
-* [Advances in Smart Environment Monitoring Systems Using IoT and Sensors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7309034/)
-* [Design of an IoT based Real Time Environment Monitoring](https://www.matec-conferences.org/articles/matecconf/abs/2018/69/matecconf_cscc2018_03008/matecconf_cscc2018_03008.html)
+* [Tensor flow transfer learning documentation](https://www.tensorflow.org/tutorials/images/transfer_learning)
+* [Tensor flow transfer learning tutorials](https://www.tensorflow.org/tutorials)
+* []()
+* []()
+* []()
+* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
