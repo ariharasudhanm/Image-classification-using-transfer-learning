@@ -159,7 +159,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@AriharasudhanM](https://twitter.com/your_username) - ariharasudhan.muthusami@gmail.com
 
-Project Link: [IoT-based-environmental-monitoring](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning)
+Project Link: [Image-classification-using-transfer-learning](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
