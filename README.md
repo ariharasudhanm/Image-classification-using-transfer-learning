@@ -29,7 +29,7 @@
   <a href="https://github.com/ariharasudhanm/Image-classification-using-transfer-learning">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
-  <h3 align="center">Image classifaction using transfer learning methods with tensor flow</h3>
+  <h3 align="center">Image classifaction using transfer learning </h3>
 
   <p align="center">
     Classifaction of acoustic and electric guitar with transfer learning methods with tensor flow
@@ -93,7 +93,7 @@ Project Overview:
 
 ### Built With
 
-These are the programming languages, libraries, frameworks, cloud services and other tools used in this project.
+These are programming languages, libraries, frameworks, cloud services and other tools used in this project.
 
 * [Python](https://www.python.org/)
 * [Tensorflow](https://www.tensorflow.org/tutorials/images/transfer_learning)
@@ -159,7 +159,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@AriharasudhanM](https://twitter.com/your_username) - ariharasudhan.muthusami@gmail.com
 
-Project Link: [IoT-based-environmental-monitoring](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring)
+Project Link: [IoT-based-environmental-monitoring](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -172,10 +172,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 * [Tensor flow transfer learning documentation](https://www.tensorflow.org/tutorials/images/transfer_learning)
 * [Tensor flow transfer learning tutorials](https://www.tensorflow.org/tutorials)
-* []()
-* []()
-* []()
-* []()
+* [Transfer Learning Guide: A Practical Tutorial With Examples for Images and Text in Keras](https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras)
+* [Transfer Learning with TensorFlow Tutorial: Image Classification Example](https://lambdalabs.com/blog/transfer-learning-with-tensorflow-tutorial-image-classification-example/)
+* [Transfer learning for Deep Neural Networks using TensorFlow](https://medium.com/@saitejaponugoti/transfer-learning-for-deep-neural-networks-using-tensorflow-d628e454e9e5)
+* [Transfer learning and fine-tuning in Keras and Tensorflow](https://voxpow.com/blog/transfer-learning-and-image-recognition-system/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
