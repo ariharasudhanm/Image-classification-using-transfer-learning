@@ -66,6 +66,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#results">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -81,10 +82,9 @@
 [![Training_samples][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Samples_from_Original_dataset.png) |    [![Training and validation accuracy][product-screenshot]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Training_and_Validation_accuracy.png)
 
 Project Overview:
-* There are three directories inside the dataset directory called test, val(for validation) and train  where each directories contains 2 directories called    acoustic and electric which contains respective categories of images.
-* We need their absolute path of these directories to feed it when creating a train, test, validation datasets.
-* In order to avoid confusions running it on different OS platforms we considering the absloute path of the images while creating datasets.
-* You can add more images to their respective images directories if needed.
+* Dataset creation(train, validation, test splits).
+* Training few layers layers and perform validation to know whether to further train few more layers.
+* Validation and testing.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -93,7 +93,7 @@ Project Overview:
 
 ### Built With
 
-These are programming languages, libraries, frameworks, cloud services and other tools used in this project.
+These are programming languages, libraries, frameworks and other tools used in this project.
 
 * [Python](https://www.python.org/)
 * [Tensorflow](https://www.tensorflow.org/tutorials/images/transfer_learning)
@@ -107,9 +107,9 @@ These are programming languages, libraries, frameworks, cloud services and other
 
 <!-- GETTING STARTED -->
 ## Usage
-* There are three directories inside the dataset directory called test, val(for validation) and train  where each directories contains 2 directories called    acoustic and electric which contains respective categories of images.
-* We need their absolute path of these directories to feed it when creating a train, test, validation datasets.
-* In order to avoid confusions running it on different OS platforms we considering the absloute path of the images while creating datasets.
+* There are three directories inside the dataset directory called test, val(for validation) and train  where each directories contains 2 directories called    acoustic and electric which contains respective categories of images (this is done manually to avoid api contradictions in tensorflow but it is better to split it randomly in order to avoid bias in train,validation,test setsplitting process).
+* In the notebook we use absolute path of these directories to feed it when creating a train, test, validation datasets(be aware of this while running).
+* In order to avoid confusions running it on different OS platforms we are considering the absloute path of the images while creating datasets.
 * You can add more images to their respective images directories if needed.
 
 
@@ -124,6 +124,9 @@ These are programming languages, libraries, frameworks, cloud services and other
 See the [open issues](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- Results -->
+## Results
 
 
 
