@@ -13,9 +13,9 @@
 
 <div align="center">
   
-[![Contributors][contributors-shield]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/graphs/contributors)
-[![Issues][issues-shield]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/issues)
-[![MIT License][license-shield]](https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/blob/main/LICENSE)
+[![Contributors][contributors-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/graphs/contributors)
+[![Issues][issues-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/issues)
+[![MIT License][license-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ariharasudhan/)
 <!-- [![Forks][forks-shield]][forks-url] If needed add it later
 [![Stargazers][stars-shield]][stars-url]  If needed add it later -->
@@ -26,22 +26,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ariharasudhanm/IoT-based-environmental-monitoring">
+  <a href="https://github.com/ariharasudhanm/Image-classification-using-transfer-learning">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
-  <h3 align="center">IoT based environmental monitoring</h3>
+  <h3 align="center">Image classifaction using transfer learning methods with tensor flow</h3>
 
   <p align="center">
-    Development of environmental monitoring based on IoT cloud solutions using deep learning
+    Classifaction of acoustic and electric guitar with transfer learning methods with tensor flow
     <br />
-    <a href="https://github.com/ariharasudhanm/IoT-based-environmental-monitoring"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ariharasudhanm/Image-classification-using-transfer-learning"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
     ·
-    <a href="https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/issues">Report Bug</a>
+    <a href="https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ariharasudhanm/IoT-based-environmental-monitoring/community">Request Feature</a>
+    <a href="https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/community">Request Feature</a>
   </p>
 </div>
 
