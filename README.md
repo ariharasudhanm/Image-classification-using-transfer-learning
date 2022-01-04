@@ -14,7 +14,6 @@
 <div align="center">
   
 [![Contributors][contributors-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/graphs/contributors)
-![Contribuors](https://img.shields.io/badge/Contributor-10-red)
 [![Issues][issues-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/issues)
 [![MIT License][license-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ariharasudhan/)
@@ -180,8 +179,8 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/ariharasudhanm/Image-classification-using-transfer-learning?color=Green&logoColor=Red&style=for-the-badge
+[contributors-url]: https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
