@@ -14,7 +14,7 @@
 <div align="center">
   
 [![Contributors][contributors-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/graphs/contributors)
-[![Last-commit][last commit-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/commits/main)
+[![Last-commit][last commit-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/graphs/commit-activity)
 [![MIT License][license-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ariharasudhan/)
 <!-- [![Forks][forks-shield]][forks-url] If needed add it later
