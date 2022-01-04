@@ -32,7 +32,7 @@
   <h3 align="center">Image classifaction using transfer learning </h3>
 
   <p align="center">
-    Classifaction of acoustic and electric guitar with transfer learning methods with tensor flow
+    Classifaction of acoustic and electric guitar with transfer learning methods using tensor flow
     <br />
     <a href="https://github.com/ariharasudhanm/Image-classification-using-transfer-learning"><strong>Explore the docs »</strong></a>
     <br />
