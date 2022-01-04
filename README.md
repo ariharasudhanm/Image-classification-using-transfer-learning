@@ -194,3 +194,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 [Commit-shield]: https://img.shields.io/github/commit-activity/m/ariharasudhanm/Image-classification-using-transfer-learning?color=Green&style=for-the-badge
 [last commit-shield]: https://img.shields.io/github/last-commit/ariharasudhanm/Image-classification-using-transfer-learning?style=for-the-badge
+[matplotlib-shield]: https://img.shields.io/badge/Matplotlib-v3-Green
