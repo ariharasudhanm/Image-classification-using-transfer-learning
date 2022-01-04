@@ -14,7 +14,9 @@
 <div align="center">
   
 [![Contributors][contributors-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/graphs/contributors)
-[![Contributors][contributors-shield]]([![Contributors][contributors-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/graphs/contributors)) 
+[![Contributors][contributors-shield]](https://img.shields.io/badge/Contributor-1-green)
+  
+  
 [![Issues][issues-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/issues)
 [![MIT License][license-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ariharasudhan/)
