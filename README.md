@@ -32,7 +32,7 @@
   <h3 align="center">Image classification using transfer learning </h3>
 
   <p align="center">
-    Classifaction of acoustic and electric guitar with transfer learning methods using tensor flow
+    Classification of acoustic and electric guitar with transfer learning methods using tensor flow
     <br />
     <a href="https://github.com/ariharasudhanm/Image-classification-using-transfer-learning"><strong>Explore the docs »</strong></a>
     <br />
@@ -109,7 +109,7 @@ These are programming languages, libraries, frameworks and other tools used in t
 
 - [x] Data split and data augmentation
 - [x] Training and validation
-- [x] Test
+- [x] Testing
 
 See the [open issues](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/issues) for a full list of proposed features (and known issues).
 
