@@ -14,9 +14,7 @@
 <div align="center">
   
 [![Contributors][contributors-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/graphs/contributors)
-[![Contributors][contributors-shield]](https://img.shields.io/badge/Contributor-1-green)
-  
-  
+![Contribuors](https://img.shields.io/badge/Contributor-10-red)
 [![Issues][issues-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/issues)
 [![MIT License][license-shield]](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/LICENSE)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/ariharasudhan/)
@@ -121,8 +119,8 @@ See the [open issues](https://github.com/ariharasudhanm/Image-classification-usi
 <!-- Results -->
 ## Results
 
-Testing the trained model for first six images from test set.
-[Testing first six images](https://github.com/ariharasudhanm/Image-classification-using-transfer-learning/blob/main/Images/Test_samples.png)
+Testing the trained model for first six images from test set `Images/Test_Samples.png`.
+
 
 ![Testing_few_images](https://user-images.githubusercontent.com/49080561/147982594-b16cfff7-fd0c-4b13-a242-7542360e4c28.png)
 
