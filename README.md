@@ -98,7 +98,7 @@ These are programming languages, libraries, frameworks and other tools used in t
 
 <!-- GETTING STARTED -->
 ## Usage
-* There are three directories inside the dataset directory called test, val(for validation) and train  where each directories contains 2 directories called    acoustic and electric which contains respective categories of images (this is done manually to avoid API contradictions in tensorflow but it is better to split it randomly in order to avoid bias in train,validation,test setsplitting process).
+* There are three directories inside the dataset directory called test, val(for validation) and train  where each directories contains 2 directories called    acoustic and electric which contains respective categories of images (this is done manually to avoid API contradictions in tensorflow but it is better to split it randomly in order to avoid bias in train,validation,test set splitting process).
 * In the notebook we use absolute path of these directories to feed it when creating a train, test, validation datasets(be aware of this while running).
 * In order to avoid confusions running it on different OS platforms we are considering the absloute path of the images while creating datasets.
 * You can add more images to their respective images directories if needed.
