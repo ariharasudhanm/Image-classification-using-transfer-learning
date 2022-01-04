@@ -29,7 +29,7 @@
   <a href="https://github.com/ariharasudhanm/Image-classification-using-transfer-learning">
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
-  <h3 align="center">Image classifaction using transfer learning </h3>
+  <h3 align="center">Image classification using transfer learning </h3>
 
   <p align="center">
     Classifaction of acoustic and electric guitar with transfer learning methods using tensor flow
